@@ -1,0 +1,22 @@
+
+MMMMMMMMMMMMMMMMWWXl;::MMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMWNkc:::::;;:okXWMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMNx::::::::::;,ckNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMXo;:::::;;;,,,''oXMMMMWMMMMMMMMMMM
+MMMMMMMMMMMWWNKkdc::::;;,,,,'''',kMMMMMMMMMMMMMMMM
+MMMMMMMMMMMN0o:;;;;;;,,,,''''''.,ok0XWMMMMMMMMMMMM
+MMMMMMMMWWNx;;;;,,,,,''''''''',,;;;:co0WMMMMMMMMMM
+MMMMMMMMMM0:',;::;,'''''',',;;::llc:,':0WMMMMMMMMM
+MMMMMMMWWM::,x0000Oo:,,;;::::cxO0000o,:OWMMMMMMMMM
+MMMMMMWX::;kKKd,':kN0l:::;;;cOXOc,,oKK;,::KWMMMMMM
+MMMMMNkc::l0Wd.   'ONk;,;;,,dN0,    oWKl;,;xXMMMMM
+MWWMWO:;;;c0Wx.   ,0Wx,'''''dNK;   .dWKc,,',kWWMMM
+MMMWWk,,,,,oKXkc:l0NO:',,,,,cONKo:cxXXo,,'''dWMWMM
+MMWWN0l,'''':d0KKKOdc;;::;::::ok0KK0xc,'''',dXWMMM
+WNOdllc;;;;;;::clccc::cc::::::;;::;,''''',;:::lxKW
+0l;;::::::::\x1B[96mWelcome to Evan's Server'\x1B[0m';::;,,';,KWd
+:,,,;;;,;;;;;;,;"::";;:':;:;';:::;,,;;;::;;,,'''';
+,',,,',,,,,,,,,,'WWWWWWWWWWWWWWWW;::::;;,,,,''''';
+d;''''''''''''''''''''',,,;;;:::::;;;,,,,''''''';k
+WKxol:;;;;;;:ccllllcclllllllccc:::;;;;;;;;;;:coxKW
+MMMWNXK0000KXNNWWWWWNNNNNXXXKK0000000000000KNWWWMM

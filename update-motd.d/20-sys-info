@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "\n"
+# motd runs as root so we need to use full path
+/usr/bin/neofetch --source /home/evan/poop.txt
